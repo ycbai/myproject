@@ -1,0 +1,13 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.talend.studio.patch.updatesite</groupId>
+    <artifactId>Patch_20160302_TPS-1268_v1</artifactId>
+    <version>6.1.1</version>
+    <packaging>zip</packaging>
+
+    <name>Patch for TPS-1268</name>
+    <description>&lt;h1 id=&quot;patch-tps-1268&quot;&gt;Patch TPS-1268&lt;/h1&gt;
+&lt;p&gt;Export context variable for hbase through metadata wizard adds double quotes on context used for value&lt;/p&gt;</description><!--html description -->
+</project>
